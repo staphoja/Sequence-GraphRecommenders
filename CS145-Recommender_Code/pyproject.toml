@@ -1,0 +1,13 @@
+[project]
+name = "sim4rec"
+version = "0.0.2"
+description = "Simulator for recommendation algorithms"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.4.0",
+    "pyarrow>=19.0.1",
+    "pyspark>=3.5.5",
+    "sdv>=0.18,<0.19",
+    "seaborn>=0.13.2",
+]

@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+
+# Scikit-learn and tools
+scikit-learn
+
+# XGBoost
+xgboost
+
+# PyTorch (CPU version; switch to +cu118 or +cu121 if using GPU)
+torch
+torch-geometric
+
+# TensorFlow (CPU version)
+tensorflow
+
+# PySpark
+pyspark
+
+# Optional utilities
+shutilwhich  # if you need shutil.which as standalone, otherwise Python stdlib
